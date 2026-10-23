@@ -1,4 +1,4 @@
-# 📄 Kỹ Năng Xử Lý Văn Phòng 2.0 (Office Automation Skill)
+# 📄 Kỹ Năng Xử Lý Văn Phòng (Office Automation Skill)
 
 > **Kiến trúc 2 Chiều (Bi-directional Architecture)** – Tự động hóa tạo lập, chỉnh sửa và chuyển đổi tài liệu văn phòng (Word, Excel, PowerPoint, PDF) chuẩn hóa theo Brand Kit hoặc Nghị định 30.
 
@@ -11,7 +11,7 @@
 
 ## 📌 Tổng Quan
 
-**Kỹ năng Xử lý Văn phòng 2.0** áp dụng **Kiến trúc 2 Chiều (Bi-directional Architecture)** giúp AI xử lý toàn diện mọi thao tác văn phòng. 
+**Kỹ năng Xử lý Văn phòng** áp dụng **Kiến trúc 2 Chiều (Bi-directional Architecture)** giúp AI xử lý toàn diện mọi thao tác văn phòng. 
 
 Điểm khác biệt cốt lõi so với các công cụ thông thường là khả năng **bóc tách nhận diện thương hiệu (Brand Kit)** từ file mẫu có sẵn, từ đó "tái sinh" các văn bản, slide, báo cáo mới đạt chuẩn mực thẩm mỹ và quy chuẩn doanh nghiệp/hành chính.
 
@@ -51,7 +51,7 @@ Khi tạo lập tài liệu văn phòng qua AI, người dùng thường gặp p
 
 ---
 
-## ✨ Cập Nhật Trong Bản Mới Nhất
+## ✨ NHỮNG ĐIỂM MẤU CHỐT TRONG BỘ SKILL
 
 * 🔄 **Kiến trúc 2 Chiều (Bi-directional):** Đọc trích xuất Brand Kit từ file mẫu và ghi tái tạo văn bản tự động.
 * 🏛️ **Hỗ trợ song song 2 chuẩn xuất bản:** 
